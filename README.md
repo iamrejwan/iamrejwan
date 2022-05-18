@@ -21,7 +21,7 @@
 
 <pre><span class="pl-v">About</span> <span class="pl-v">Me</span> <span class="pl-c1">=</span> [
     <span class="pl-s">"I'm a student with noob dev labels"</span>,
-    <span class="pl-s">"A know about of Python, HTML. CSS, Java, PHP, JS, and Much More ...!"</span>,
+    <span class="pl-s">"A know about of Kotlin, Python, HTML. CSS, Java, PHP, JS, and Much More ...!"</span>,
     <span class="pl-s">"New Things with code everyday"</span>,
     <span class="pl-s">"I am in my world !! 💞"</span>
     <span class="pl-s">"I Work for Mine"</span>
