@@ -9,6 +9,9 @@
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>New Things</strong></p>
 </li>
+    <li>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💬 </g-emoji> Ask me about <strong>**Mobile App development**</strong></p>
+</li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> Fun Fact is <strong>**No code has zero defects**</strong></p>
 </li>
