@@ -24,7 +24,7 @@
     <span class="pl-s">"A know about of Kotlin, Python, HTML. CSS, Java, PHP, JS, and Much More ...!"</span>,
     <span class="pl-s">"New Things with code everyday"</span>,
     <span class="pl-s">"I am in my world !! 💞"</span>
-    <span class="pl-s">"I Work for Mine"</span>
+    
 ]</pre>
 
 <p align="center" dir="auto"> 
