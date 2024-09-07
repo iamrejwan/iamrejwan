@@ -1,46 +1,49 @@
+<div align="center">
+    <h1>Hi 👋, I'm RejwaN</h1>
+    <h2>A Successful Entrepreneur, Programmer, Gamer, Web Developer and App Developer</h2>
 
-<h1 align="center" dir="auto"><a id="user-content-hi---im-rejwan-" class="anchor" aria-hidden="true" href="#hi---im-rejwan-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi  &nbsp;<a href="" rel="nofollow"></a>, I'm Rejwan </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamrejwan&label=Profile%20views&color=0e75b6&style=flat" alt="iamrejwan" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C829&lines=Software+Engineering+Student;Android+Developer&center=true&width=500&height=50"></a>
+<img src="https://github-stats-alpha.vercel.app/api/?username=iamrejwan&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
-<h4 align="center" dir="auto"><a id="user-content-closed-source-development-and-always-develop-in-python-and-js---i-like-to-work-privately" class="anchor" aria-hidden="true" href="#closed-source-development-and-always-develop-in-python-and-js---i-like-to-work-privately"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Closed-Source Development and Always Develop in Kotlin  
+<hr>
+    <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
+    <h2 style="color: #0e75b6;">👤 About Me</h2>
+        <strong>I'm Rejwan, aka JoKeR! I'm an entrepreneur, programmer, Gamer, web developer and app developer. I lead innovative web projects. I freelance on Fiverr</strong>
+    </div>
+<br/>
+<hr>
+<h3 align="center">🤝 Connect with me:</h3>
+<p align="center">
+    <a href="https://t.me/itsSmartDev" target="blank">
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="iamjoker99" />
+    </a>
+</p>
+<br/>
+<hr>
+<div align="center">
+    <h3>💻 Languages and Tools:</h3>
+    <p>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="nodejs" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+    </p>
+</div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrejwan&show_icons=true&theme=algolia&layout=compact" alt="iamrejwan" />
+</div>
 
-<ul dir="auto">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamrejwan&show_icons=true&theme=algolia" alt="iamrejwan" />
+</div>
 
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Kotlin</strong></p>
-</li>
-    <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💬 </g-emoji> Ask me about <strong>**Mobile App development**</strong></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> Fun Fact is <strong>**No code has zero defects**</strong></p>
-</li>
-
-
-</ul>
-
-<pre><span class="pl-v">About</span> <span class="pl-v">Me</span> <span class="pl-c1">=</span> [
-    <span class="pl-s">"I'm a student with noob dev labels"</span>,
-    <span class="pl-s">"A know about of Kotlin, Python, HTML, CSS, Cura, Meshmixer and ...!"</span>,
-    <span class="pl-s">"New Things with code everyday"</span>,
-    <span class="pl-s">"I am in my world !! 💞"</span> ]</pre>
-
-<p align="center" dir="auto"> 
-
-<code>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/iamrejwan/iamrejwan/main/kotlin-1.svg" width="40" height="40" alt="Kotlin" /></a></code>&nbsp;
-<code><a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a></code>&nbsp;<code><a href="https://firebase.google.com/" rel="nofollow"><img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"></a></code>&nbsp;<code><a href="https://git-scm.com/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a></code>&nbsp;<code><a href="https://heroku.com" rel="nofollow"><img src="https://www.svgrepo.com/show/303683/heroku-logo.svg" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"></a></code>&nbsp;<code><a href="https://www.w3.org/html/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a></code>&nbsp;<code><a href="https://www.adobe.com/in/products/illustrator.html" rel="nofollow"><img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="illustrator" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="max-width: 100%;"></a></code>&nbsp;
-<code>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/iamrejwan/iamrejwan/main/photoshop.svg" width="40" height="40" alt="Photoshop" /></a></code>&nbsp;
-<code><a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a></code>&nbsp;<code><a href="https://www.adobe.com/products/xd.html" rel="nofollow"><img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="xd" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="max-width: 100%;"></a></code>&nbsp;</p>
-
-<!---
-C0deX101/C0deX101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--
-**coder9923/coder9923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=iamrejwan&theme=onedark" alt="iamrejwan" />
+    </a>
+</div>
