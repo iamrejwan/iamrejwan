@@ -16,7 +16,7 @@
 <hr>
 <h3 align="center">🤝 Connect with me:</h3>
 <p align="center">
-    <a href="https://t.me/itsSmartDev" target="blank">
+    <a href="https://t.me/iamjoker99" target="blank">
         <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="iamjoker99" />
     </a>
 </p>
