@@ -10,7 +10,7 @@
 <hr>
     <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
     <h2 style="color: #0e75b6;">👤 About Me</h2>
-        <strong>I'm Rejwan, aka JoKeR! I'm an entrepreneur, programmer, Gamer, web developer and app developer. I lead innovative web projects. I freelance on Fiverr</strong>
+        <strong>I'm Rejwan, aka JoKeR! I'm an entrepreneur, programmer, Gamer, web developer and app developer. I lead innovative web projects. <br> I freelance on Fiverr</strong>
     </div>
 <br/>
 <hr>
