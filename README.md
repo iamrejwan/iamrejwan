@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi 👋, I'm RejwaN</h1>
-    <h2>A Successful Entrepreneur, Programmer, Gamer, Web Developer and App Developer</h2>
+   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamrejwan&label=Profile%20views&color=0e75b6&style=flat" alt="iamrejwan" /> </p>
 
